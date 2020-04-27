@@ -1,0 +1,1 @@
+C:\Users\Ayush Arvind\AppData\Local\Programs\Python\Python37-32\python.exe C:\Users\Ayush Arvind\Desktop\SMAssignment\sfwmetassignment.py
